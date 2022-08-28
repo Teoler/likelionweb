@@ -1,0 +1,28 @@
+
+    @import url('https://fonts.googleapis.com/css2?family=Dongle:wght@300&display=swap');
+  .inform{
+    width: 700px;
+    height: 500px;
+    background-color: white;
+    border-radius: 10%;
+    text-align: center;
+    padding: 20px;
+    margin-left: 100px;
+    opacity: 0.8;
+  }
+  .자기소개{
+    
+    line-height: 35px
+  }
+  .학습계획{
+    
+    line-height: 35px
+  }
+  body{
+    font-family: 'Noto Sans KR', sans-serif;
+    background-color: blanchedalmond;
+    margin-left: 30px;
+    line-height: 1.8;
+    
+  }
+
